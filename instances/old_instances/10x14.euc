@@ -1,0 +1,33 @@
+type = euclidean
+n=10
+m=14
+p=4
+dim=2
+
+clients = {
+Kansas_Topeka		{39.50, 95.6666},
+Kentucky_Frankfort		{38.166, 84.8833},
+Key_West		{24.550, 81.7666},
+Los_Angeles		{34.0, 118.2500},
+Louisiana_Baton_Rouge		{30.450, 91.1833},
+Maine_Augusta		{44.316, 69.8333},
+Maryland_Annapolis		{38.983, 76.5000},
+Massachusetts_Boston		{42.350, 71.500},
+Miami		{25.750, 80.2500},
+Michigan_Lansing		{42.733, 85.5666}}
+
+facilities = {
+Milwaukee		{43.33, 87.9000},
+Minnesota_St_Paul		{44.933, 93.833},
+Mississippi_Jackson		{32.283, 90.2000},
+Missouri_JeffersonCity		{38.550, 92.1666},
+Montana_Helena		{46.583, 112.333},
+Montauk_Point_Long_I		{41.66, 71.8500},
+NW_Angle		{49.350, 95.0},
+Navajo_Indian_Res_Page		{36.950, 111.5000},
+Nebraska_Lincoln		{40.816, 96.7000},
+Nevada_Carson_City		{39.166, 119.7666},
+New_Hampshire_Concord		{43.200, 71.5333},
+New_Jersey_Trenton		{40.233, 74.7500},
+New_Mexico_Santa_Fe		{35.683, 105.9333},
+New_York_Albany		{42.666, 73.8166}}

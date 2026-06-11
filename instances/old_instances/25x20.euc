@@ -1,0 +1,54 @@
+type = euclidean
+dim = 2
+m = 20
+n = 25
+p = 5
+clients = {
+California_Sacramento  {38.583,  121.483},  
+Florida_Tallahassee    {30.433,   84.283},  
+Indiana_Indianapolis   {39.766,   86.167},  
+Evansville             {37.98,   87.91},  
+Iowa_Des Moines        {41.583,   93.65},  
+Kansas_Topeka          {39.05,   95.686},  
+Kentucky_Frankfort     {38.167,   84.91},  
+Louisiana_Baton_Rouge  {30.45,   91.183},  
+Maine_Augusta          {44.317,   69.88},  
+Detroit                {42.50,   83.0},  
+Rock_Harbor            {42.133,   88.50},  
+Minnesota_St_Paul      {44.95,   93.083},  
+NW_Angle               {49.35,   95.0},  
+Mississippi_Jackson    {32.283,   90.20},  
+Missouri_JeffersonCity {38.55,   92.167},  
+St_Louis               {38.617,   90.25},  
+Montana_Helena         {46.583,  112.033},  
+Nebraska_Lincoln       {40.82,   96.726},  
+Nevada_Carson_City     {39.167,  119.78},  
+New Hampshire_Concord  {43.20,   71.533},  
+Peterborough           {42.91,   71.97},  
+New_Jersey_Trenton     {40.233,   74.766},  
+Bonnie_Brae            {40.686,   74.567},  
+New_Mexico_Santa Fe    {35.713,  105.95},  
+New_York_Albany        {42.686,   73.82}
+}
+facilities = {
+Hamlin                 {47.067,   67.806},  
+West_Quoddy_Head       {44.90,   66.99},  
+Maryland_Annapolis     {38.99,   76.50},  
+Baltimore              {39.30,   76.617},  
+Massachusetts_Boston   {42.35,   71.05},  
+Michigan_Lansing       {42.753,   85.567},  
+Breckinridge           {39.483,  106.05},  
+Fort_Collins_WWV       {40.713,  105.05},  
+Connecticut_Hartford   {41.78,   72.686},  
+Delaware_Dover         {39.167,   75.517},  
+DistrColumbia          {38.93,   77.033},  
+C_Canaveral_JFK_Sp_Ctr {28.467,   80.467},  
+Key_West               {24.55,   81.78},  
+Miami                  {25.766,   80.25},  
+Georgia_Atlanta        {33.766,   84.417},  
+Idaho_Boise            {43.60,  116.233},  
+Illinois_Springfield   {39.793,   89.65},  
+Chicago                {41.766,   87.583},  
+New_York_EmpStBldg     {40.766,   73.99},  
+Fishers_Island         {41.25,   71.94}
+}
